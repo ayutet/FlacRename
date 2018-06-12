@@ -15,6 +15,7 @@ namespace FlacRename
         public Form1()
         {
             InitializeComponent();
+
         }
     }
 }
